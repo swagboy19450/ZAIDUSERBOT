@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Itsunknown-12/ZAID-USERBOT",
-  "website": "https://github.com/Itsunknown-12/ZAID-USERBOT",
-  "success_url": "@zaid_team1",
+  "repository": "https://github.com/Itsunknown-12/ZAIDUSERBOT",
+  "website": "https://github.com/Itsunknown-12/ZAIDUSERBOT",
+  "success_url": "zaid_team1",
   "stack": "container",
   "env": {
     "ENV": {
