@@ -41,6 +41,8 @@
 
 - ᴡᴀɪᴛ ꜰᴏʀ ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ ᴛᴏ ꜰɪɴɪꜱʜ.
 
+- ᴄʜʜᴏꜱᴇ ᴛ ꜰᴏʀ ᴛᴇʟᴇᴛʜᴏɴ ꜱᴇꜱꜱɪᴏɴ
+
 - ꜰɪʟʟ ᴀᴘɪ ɪᴅ, ᴀᴘɪ ʜᴀꜱʜ, ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ (ᴡɪᴛʜ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ).
 
 - ᴘᴀꜱᴛᴇ ᴛʜᴇ ᴏᴛᴘ ʀᴇᴄᴇɪᴠᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ.
@@ -49,7 +51,7 @@
 
 - ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ᴡɪʟʟ ʙᴇ ꜱᴀᴠᴇᴅ ɪɴ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴀᴠᴇᴅ ᴍᴇꜱꜱᴀɢᴇ.
 
-[![Session Repl](https://telegra.ph/file/a5079c7512fb995261c26.jpg)](https://replit.com/@BoooCreative/Mikasa-Session#main.py)
+[![Session Repl](https://telegra.ph/file/a5079c7512fb995261c26.jpg)](https://replit.com/@BoooCreative/StringSession-1#main.py)
 
     
 
