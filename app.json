@@ -1,7 +1,7 @@
 {
-  "name": "ᴢᴀɪᴅ ᴜꜱᴇʀʙᴏᴛ",
+  "name": "Phantom userbot",
   "description": "ᴀ ʙᴇꜱᴛ ᴀɴᴅ ꜰᴀꜱᴛᴇꜱᴛ ᴜꜱᴇʀʙᴏᴛ ᴏʀ ᴀʟꜱᴏ ᴋɴᴏᴡɴ ᴀꜱ ʜɪꜱ ꜱᴍᴏᴛʜɴᴇꜱꜱ  ",
-  "logo": "https://telegra.ph/file/715372bea81d37c2cc90b.jpg",
+  "logo": "  https://telegra.ph/file/d38943e61f8a891092d9d.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/Itsunknown-12/ZAIDUSERBOT",
   "website": "https://github.com/Itsunknown-12/ZAIDUSERBOT",
-  "success_url": "zaid_team1",
+  "success_url": "phantom",
   "stack": "container",
   "env": {
     "ENV": {
@@ -30,8 +30,8 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
-      "value": "@Zaid_Support",
+      "description": "Fill your Full name or Username like @king_19451.",
+      "value": "@phantom_userbot",
       "required": true
     },
     "AUTONAME": {
@@ -46,7 +46,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/9e64778a6664e1793c91a.mp4",
+      "value": "https://telegra.ph/file/46e3d05b2f1cf1d07d479.mp4",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -66,7 +66,7 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Custom middle pm permit text... May skip..doesn't really matter...",
-      "value": "https://telegra.ph/file/9e64778a6664e1793c91a.mp4",
+      "value": "https://telegra.ph/file/46e3d05b2f1cf1d07d479.mp4",
       "required": false
     },
     "PM_DATA": {
